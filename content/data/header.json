@@ -18,7 +18,7 @@
             "type": "Link"
         },
         {
-            "label": "Videos",
+            "label": "Video",
             "altText": "videos",
             "url": "#videos",
             "icon": "arrowRight",
