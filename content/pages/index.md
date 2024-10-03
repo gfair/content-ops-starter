@@ -187,7 +187,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: 2023-2024 Highlights
         tagline: ''
         subtitle: This is the item subtitle
         text: |
