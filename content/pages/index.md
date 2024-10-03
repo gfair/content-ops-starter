@@ -87,10 +87,6 @@ sections:
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
-        image:
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
