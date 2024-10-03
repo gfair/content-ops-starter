@@ -53,7 +53,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Striker/Winger
     items:
       - type: FeaturedItem
         title: ''
