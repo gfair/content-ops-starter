@@ -334,7 +334,7 @@ sections:
     type: DividerSection
 seo:
   metaTitle: Ben Fair 2026
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: ''
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
