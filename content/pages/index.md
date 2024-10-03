@@ -81,7 +81,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-      - title: MVLA Atletico ECNL 2008
+      - title: MVLA Atletico ECNL08
         subtitle: ECNL 2023 National Finalist
         text: |+
           *   ​2023-24 1st Place finish ECNL Northern Cal
