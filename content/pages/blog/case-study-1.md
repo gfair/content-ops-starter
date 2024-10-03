@@ -1,5 +1,5 @@
 ---
-title: Case study 1
+title: 2023-2024 Highlights
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
