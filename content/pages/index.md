@@ -109,7 +109,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Crystal Springs Uplands School
-        subtitle: Faster
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
