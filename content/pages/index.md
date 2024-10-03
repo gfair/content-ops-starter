@@ -26,7 +26,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/ghana_group.jpg
+      url: /images/Ben ECNLTX insta post.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
