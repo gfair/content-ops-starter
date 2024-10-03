@@ -56,7 +56,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: Profile
+        title: ''
         subtitle: ''
         text: |+
           *   Height: 5’9”
