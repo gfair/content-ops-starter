@@ -189,7 +189,7 @@ sections:
       - type: FeaturedItem
         title: 2023-2024 Highlights
         tagline: ''
-        subtitle: 'Highlights form 2023 Nationals, 2023-2024 ECNL Season, and Showcases'
+        subtitle: 'Highlights from 2023 Nationals, 2023-2024 ECNL Season, and Showcases'
         text: ''
         image:
           type: ImageBlock
