@@ -163,7 +163,7 @@ sections:
         self:
           textAlign: center
       type: Badge
-    elementId: ''
+    elementId: profile
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
