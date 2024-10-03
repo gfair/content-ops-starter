@@ -83,10 +83,17 @@ sections:
             textAlign: left
       - title: MVLA Atletico ECNL 2008
         subtitle: ECNL 2023 National Finalist
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          *   ​2023-24 1st Place finish ECNL Northern Cal
+              16-0-3 ECNL 2023-24 Conference Record
+
+          *   2022-23 1st Place finish ECNL Northern Cal
+              5-1 ECNL National Playoffs & Finals 22-23
+
+          *   29-2 ECNL 2022-23 Season
+
+          *   Undefeated in Spring 2023 & Spring 2024 Austin, TX Showcases
+
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
