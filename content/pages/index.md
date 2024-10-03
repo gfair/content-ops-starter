@@ -81,7 +81,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-      - title: MVLA Atletico ECNL 20008
+      - title: MVLA Atletico ECNL 2008
         subtitle: ECNL 2023 National Finalist
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
