@@ -281,7 +281,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: 2023-2024 Highlights
       color: text-dark
       styles:
         self:
