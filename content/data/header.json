@@ -20,7 +20,7 @@
         {
             "label": "Video",
             "altText": "video",
-            "url": "#videos",
+            "url": "#video",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
