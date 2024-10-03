@@ -59,7 +59,7 @@ sections:
         title: ''
         subtitle: ''
         text: |+
-          #### Profile
+          ### Key info
 
           *   Height: 5’9”
 
@@ -69,7 +69,7 @@ sections:
 
           *   Overall GPA: 3.9 (unweighted)
 
-          #### Activities
+          ### Activities
 
           *   USSF Referee
 
