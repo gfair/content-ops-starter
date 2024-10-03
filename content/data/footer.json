@@ -20,5 +20,12 @@
     "copyrightText": "",
     "colors": "bg-dark-fg-light",
     "type": "Footer",
-    "title": "Contact"
+    "title": "Contact",
+    "styles": {
+        "self": {
+            "margin": [
+                "ml-12"
+            ]
+        }
+    }
 }
