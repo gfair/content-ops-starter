@@ -59,7 +59,7 @@ sections:
         title: ''
         subtitle: ''
         text: |+
-          ### Key info
+          ### Bio
 
           *   Height: 5’9”
 
