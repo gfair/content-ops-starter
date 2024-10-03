@@ -110,10 +110,23 @@ sections:
         type: FeaturedItem
       - title: Crystal Springs Uplands School
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          *   Varsity Soccer starter as a Freshman
+
+
+          *   Team had best finish in school history
+
+
+          *   Named to All Scholastic Team Varsity Soccer
+
+
+          *   Also competed on the Varsity Football and Varsity Track & Field
+          Teams as a Freshman
+
+
+          *   High School is consistently ranked as one of the top 10 prep
+          schools in the country
+
         image:
           altText: Featured icon three
           elementId: ''
