@@ -3,16 +3,16 @@
     "socialLinks": [
         {
             "type": "Social",
-            "altText": "YouTube icon",
-            "url": "https://www.youtube.com/@BCFSoccer-2026",
-            "icon": "youtube",
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/benfairsoccer2026/",
+            "icon": "instagram",
             "elementId": ""
         },
         {
             "type": "Social",
-            "altText": "Instagram link",
-            "url": "https://www.instagram.com/benfairsoccer2026/",
-            "icon": "instagram",
+            "altText": "YouTube icon",
+            "url": "https://www.youtube.com/@BCFSoccer-2026",
+            "icon": "youtube",
             "elementId": ""
         }
     ],
