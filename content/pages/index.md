@@ -195,10 +195,6 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-    title:
-      type: TitleBlock
-      text: Videos
-      color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
     styles:
