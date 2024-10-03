@@ -339,5 +339,7 @@ seo:
     School, Class of 2026
   socialImage: /images/main-hero.jpg
   type: Seo
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
