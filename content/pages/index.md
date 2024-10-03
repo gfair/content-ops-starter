@@ -288,11 +288,7 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Highlights from 2023 Nationals and 2023-2024 ECNL Season
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: ''
     actions: []
     media:
       title: 2023 Nationals and 2023-2024 Season Highlights
