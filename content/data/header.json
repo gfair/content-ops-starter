@@ -22,7 +22,7 @@
         {
             "label": "Profile",
             "altText": "profile",
-            "url": "/blog",
+            "url": "#profile",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
