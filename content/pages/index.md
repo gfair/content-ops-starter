@@ -58,10 +58,15 @@ sections:
       - type: FeaturedItem
         title: Profile
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          *   Height: 5’9”
+
+          *   Weight: 145 lbs
+
+          *   Dominant foot: Right
+
+          *   Overall GPA: 3.9 (unweighted)
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
