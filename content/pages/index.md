@@ -295,7 +295,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions: []
     media:
-      title: Title of the video
+      title: 2023 Nationals and 2023-2024 Season Highlights
       url: 'https://www.youtube.com/watch?v=CCIGvGgRK5Y'
       autoplay: false
       loop: false
