@@ -16,7 +16,7 @@ sections:
 
       I strive to excel both academically and athletically.
     actions:
-      - label: See Tutorials
+      - label: View Profile
         altText: ''
         url: /
         showIcon: true
