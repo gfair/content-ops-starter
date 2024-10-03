@@ -67,7 +67,7 @@ sections:
 
           *   Overall GPA: 3.9 (unweighted)
 
-          ### Activities
+          #### Activities
 
           *   USSF Referee
 
