@@ -67,6 +67,16 @@ sections:
 
           *   Overall GPA: 3.9 (unweighted)
 
+          ### Activities
+
+          *   USSF Referee
+
+          *   Volunteer coach and speaker - youth soccer clinics in Accra, Ghana
+
+          *   LEADS student leadership project
+
+          *   President’s Volunteer Service Award
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
