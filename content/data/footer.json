@@ -25,7 +25,9 @@
         "self": {
             "margin": [
                 "ml-0",
-                "mt-0"
+                "mt-0",
+                "mb-0",
+                "mr-0"
             ],
             "padding": [
                 "pl-0",
