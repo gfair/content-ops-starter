@@ -49,6 +49,13 @@
             "url": "https://www.youtube.com/@BCFSoccer-2026",
             "icon": "youtube",
             "elementId": ""
+        },
+        {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/benfairsoccer2026/",
+            "icon": "instagram",
+            "elementId": ""
         }
     ],
     "legalLinks": [],
