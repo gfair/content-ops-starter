@@ -34,7 +34,7 @@ sections:
       label: Class of 2026
       color: text-primary
       type: Badge
-    elementId: profile
+    elementId: home
     colors: bg-light-fg-dark
     styles:
       self:
