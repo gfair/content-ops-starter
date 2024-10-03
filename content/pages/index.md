@@ -88,7 +88,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: MVLA Atletico ECNL 20008ECNL 2023 National Finalist
+      - title: MVLA Atletico ECNL 20008
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
