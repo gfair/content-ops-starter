@@ -337,7 +337,7 @@ seo:
   metaDescription: >-
     Ben Fair soccer profile, MVLA Atletico ECNL 2008, Crystal Springs Uplands
     School, Class of 2026
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Ben Soccer Title Slide 2.001.png
   type: Seo
   metaTags: []
 type: PageLayout
