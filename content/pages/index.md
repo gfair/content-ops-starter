@@ -57,7 +57,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Profile
-        subtitle: Numbers Done
+        subtitle: ''
         text: |+
           *   Height: 5’9”
 
