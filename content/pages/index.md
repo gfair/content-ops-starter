@@ -212,7 +212,7 @@ sections:
       - type: FeaturedItem
         title: 2024-2025 Highlights
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Highlights from beginning of 2024-2025 ECNL Season
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
