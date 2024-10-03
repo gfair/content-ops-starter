@@ -211,7 +211,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Two
+        title: 2024-2025 Highlights
         tagline: ''
         subtitle: This is the item subtitle
         text: |
