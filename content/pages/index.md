@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Class of 2026
       color: text-primary
       type: Badge
     elementId: ''
