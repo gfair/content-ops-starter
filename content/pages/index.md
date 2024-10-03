@@ -12,6 +12,8 @@ sections:
       OBJECTIVE: To join a top NCAA Program with strong academic credentials and
       immediately contribute to the team.
 
+
+
       I strive to excel both academically and athletically.
     actions:
       - label: Get started
