@@ -38,12 +38,6 @@
     },
     "socialLinks": [
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
             "type": "Social",
             "altText": "YouTube icon",
             "url": "https://www.youtube.com/@BCFSoccer-2026",
