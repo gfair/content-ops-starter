@@ -189,7 +189,7 @@ sections:
       - type: FeaturedItem
         title: 2023-2024 Highlights
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: 'Highlights form 2023 Nationals, 2023-2024 ECNL Season, and Showcases'
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
