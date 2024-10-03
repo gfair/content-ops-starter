@@ -59,6 +59,8 @@ sections:
         title: ''
         subtitle: ''
         text: |+
+          #### Profile
+
           *   Height: 5’9”
 
           *   Weight: 145 lbs
