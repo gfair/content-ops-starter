@@ -19,7 +19,7 @@
         },
         {
             "label": "Video",
-            "altText": "videos",
+            "altText": "video",
             "url": "#videos",
             "icon": "arrowRight",
             "iconPosition": "right",
