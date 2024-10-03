@@ -31,7 +31,7 @@
         {
             "label": "Videos",
             "altText": "videos",
-            "url": "/careers",
+            "url": "#videos",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
