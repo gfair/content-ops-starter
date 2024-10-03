@@ -81,13 +81,6 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
       - title: MVLA Atletico ECNL 20008
         subtitle: ECNL 2023 National Finalist
         text: >-
