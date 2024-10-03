@@ -25,6 +25,9 @@
         "self": {
             "margin": [
                 "ml-12"
+            ],
+            "padding": [
+                "pl-12"
             ]
         }
     }
