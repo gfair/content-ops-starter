@@ -217,7 +217,7 @@ sections:
           borderWidth: 1
           borderRadius: large
       type: VideoBlock
-    elementId: Videos
+    elementId: video
     colors: bg-light-fg-dark
     styles:
       self:
