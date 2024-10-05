@@ -18,7 +18,7 @@ sections:
     actions:
       - label: View Profile
         altText: ''
-        url: /profile
+        url: '#profile'
         showIcon: true
         icon: arrowRight
         iconPosition: right
