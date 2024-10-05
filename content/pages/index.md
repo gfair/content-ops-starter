@@ -163,7 +163,7 @@ sections:
         self:
           textAlign: center
       type: Badge
-    elementId: ''
+    elementId: profile
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
@@ -217,7 +217,7 @@ sections:
           borderWidth: 1
           borderRadius: large
       type: VideoBlock
-    elementId: Videos
+    elementId: video
     colors: bg-light-fg-dark
     styles:
       self:
