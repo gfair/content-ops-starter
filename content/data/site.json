@@ -1,8 +1,8 @@
 {
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/Ben ECNLTX insta post.jpg",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "titleSuffix": "Soccer",
+    "defaultSocialImage": "/images/Ben Soccer Title Slide 2.001.png",
     "type": "Config",
     "header": "content/data/header.json"
 }
