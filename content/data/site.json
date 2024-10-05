@@ -1,7 +1,7 @@
 {
     "favicon": "/images/Ben ECNLTX insta post.jpg",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Soccer",
+    "titleSuffix": "",
     "defaultSocialImage": "/images/Ben Soccer Title Slide 2.001.png",
     "type": "Config",
     "header": "content/data/header.json"
