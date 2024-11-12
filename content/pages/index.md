@@ -188,7 +188,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: 2023-2024 Highlights
+      text: Game Highlights
       color: text-dark
       styles:
         self:
