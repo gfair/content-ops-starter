@@ -188,18 +188,20 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: 2023-2024 Highlights
+      text: Game Highlights
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Highlights from 2023 Nationals and 2023-2024 ECNL Season
+    subtitle: >-
+      Highlights from 2023 and 2024 ECNL regular season, showcases, postseason
+      playoffs, and national finals
     text: ''
     actions: []
     media:
-      title: 2023 Nationals and 2023-2024 Season Highlights
-      url: 'https://www.youtube.com/watch?v=CCIGvGgRK5Y'
+      title: Game Highlights
+      url: 'https://www.youtube.com/watch?v=i8wYCApLDMI'
       autoplay: false
       loop: false
       muted: true
