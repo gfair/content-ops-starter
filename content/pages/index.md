@@ -194,7 +194,9 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Highlights from 2023 Nationals and 2023-2024 ECNL Season
+    subtitle: >-
+      Highlights from 2023 and 2024 ECNL regular season, showcases, postseason
+      playoffs, and national finals
     text: ''
     actions: []
     media:
