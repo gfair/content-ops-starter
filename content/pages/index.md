@@ -199,7 +199,7 @@ sections:
     actions: []
     media:
       title: 2023 Nationals and 2023-2024 Season Highlights
-      url: 'https://www.youtube.com/watch?v=CCIGvGgRK5Y'
+      url: 'https://www.youtube.com/watch?v=i8wYCApLDMI'
       autoplay: false
       loop: false
       muted: true
